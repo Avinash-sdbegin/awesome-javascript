@@ -1055,7 +1055,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Mongoose](https://github.com/Automattic/mongoose) MongoDB object modeling designed to work in an asynchronous environment.
 * [TypeORM](https://github.com/typeorm/typeorm) ORM for TypeScript and JavaScript, Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 * [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) Headless TypeScript ORM with a head. Runs on Node, Bun and Deno.
-* [Kysely](https://github.com/kysely-org/kysely) A type-safe typeAdd Vercel script SQL query builder.
+* [Kysely](https://github.com/kysely-org/kysely) A type-safe typescript SQL query builder.
 * [Knex](https://github.com/knex/knex) A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 * [MikroORM](https://github.com/mikro-orm/mikro-orm) TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns.
 * [Objection.js](https://github.com/Vincit/objection.js) A SQL-friendly ORM for Node.js built on top of Knex.js, with powerful relational support.
@@ -1068,8 +1068,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 ## Generative AI
 
-* [KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is an open-source framework browser-compatibility of orchestration of multi-agent ai systems using a Kanban-inspired architecture.
-* [Vercel AI SDK](https://github.com/vercel/ai) - Build AI-powered applications with React, Next.js, Svelte, and Vue.
+* [KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is an open-source framework for orchestration of multi-agent AI systems using a Kanban-inspired architecture.
+* [Vercel AI SDK](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents.
 
 ## Misc
 
